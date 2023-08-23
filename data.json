@@ -1,0 +1,8 @@
+{
+    "message_int64": 64,
+    "message_double1": "untest",
+    "message_double2": "untest",
+	"message_int32": 32,
+	"message_str": "example string",
+	"message_bool": "true"
+}

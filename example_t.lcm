@@ -1,0 +1,11 @@
+package exlcm;
+
+struct example_t
+{
+    int64_t  message_int64;
+    double   message_double1[3];
+    double   message_double2[4]; 
+    int32_t  message_int32;
+    string   message_str;
+    boolean  message_bool;
+}
